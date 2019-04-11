@@ -1,32 +1,37 @@
 ---
 layout: page
-title: Projects
+title: Projeler
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### Proje 1
+C# Asp.net MVC ile geliştirdiğim Emlak Otomasyonu
 
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### Proje 2
+Java Programlama Diliyle Geliştirdiğim Çalışanlar Otomasyonu
 
 ***
 
-## Other Projects
+### Proje 3
+C Programlama Diliyle Soket Programlama
 
-### This Could Be Another Project Name
+***
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
+### Proje 4
+Java Programlama Diliyle Uzay Oyunu
 
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+***
+
+### Proje 5
+Java Programlama Diliyle Çekiliş Uygulaması
+
+***
 
 
-## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+
+
+
+
